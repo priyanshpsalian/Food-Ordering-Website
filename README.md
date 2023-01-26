@@ -1,3 +1,8 @@
+This website is an online platform that allows customers to place orders for food delivery or takeout from local restaurants. The website typically displays a list of restaurants with their menus and pricing information, allowing customers to browse and select items to add to their order. Some food ordering websites also offer the ability to search for restaurants by location, cuisine type, or ratings.
+Once the customer has placed an order, it can be paid for online and then delivered by the restaurant or can be picked up by the customer. The website also usually includes customer account creation, tracking order status, and rating system for the restaurant as well.
+Additionally, this website also include features such as loyalty programs, special deals, and the ability to save favorite orders for future use.
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
